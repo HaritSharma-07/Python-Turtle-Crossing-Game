@@ -1,5 +1,9 @@
 # Turtle Crossing Game
 
+<p align="center">
+    <img src="Car-Game-gif.gif" width="700">
+</p>
+
 A simple Turtle Crossing Game built using Python and the Turtle graphics module. This project is part of my Python learning journey and helped me understand object-oriented programming, collision detection, animation, and game development concepts.
 
 ## Features
